@@ -1,0 +1,10 @@
+C:\Users\Matheus\AppData\Local\Temporary Projects\CryptoMagic\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Matheus\AppData\Local\Temporary Projects\CryptoMagic\bin\Release\CryptoMagic.exe
+C:\Users\Matheus\AppData\Local\Temporary Projects\CryptoMagic\bin\Release\CryptoMagic.pdb
+C:\Users\Matheus\AppData\Local\Temporary Projects\CryptoMagic\obj\Release\CryptoMagic.exe
+C:\Users\Matheus\AppData\Local\Temporary Projects\CryptoMagic\obj\Release\CryptoMagic.pdb
+C:\Users\Matheus\Documents\Visual Studio 2008\Projects\CryptoMagic\CryptoMagic\obj\Release\CryptoMagic.exe
+C:\Users\Matheus\Documents\Visual Studio 2008\Projects\CryptoMagic\CryptoMagic\obj\Release\CryptoMagic.pdb
+C:\Users\Matheus\Documents\Visual Studio 2008\Projects\CryptoMagic\CryptoMagic\bin\Release\CryptoMagic.exe
+C:\Users\Matheus\Documents\Visual Studio 2008\Projects\CryptoMagic\CryptoMagic\bin\Release\CryptoMagic.pdb
+C:\Users\Matheus\Documents\Visual Studio 2008\Projects\CryptoMagic\CryptoMagic\obj\Release\ResolveAssemblyReference.cache

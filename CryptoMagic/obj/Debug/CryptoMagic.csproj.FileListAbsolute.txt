@@ -1,0 +1,5 @@
+C:\Users\Matheus\Documents\Visual Studio 2008\Projects\CryptoMagic\CryptoMagic\bin\Debug\CryptoMagic.exe
+C:\Users\Matheus\Documents\Visual Studio 2008\Projects\CryptoMagic\CryptoMagic\bin\Debug\CryptoMagic.pdb
+C:\Users\Matheus\Documents\Visual Studio 2008\Projects\CryptoMagic\CryptoMagic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\Visual Studio 2008\Projects\CryptoMagic\CryptoMagic\obj\Debug\CryptoMagic.exe
+C:\Users\Matheus\Documents\Visual Studio 2008\Projects\CryptoMagic\CryptoMagic\obj\Debug\CryptoMagic.pdb
